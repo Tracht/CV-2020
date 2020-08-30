@@ -4,11 +4,9 @@
 Frontend developer (React.js)  
 
 ### Summary
-After spending the past year learning how to code simple games in Python I decided that I really enjoyed programming and wanted to switch full time. I enrolled in Makers Academy 16 week full-stack bootcamp and recently graduated. I’m now looking for a front-end role and I have been spending my time on side projects growing my React.js skills.    
-
+After spending the past year learning how to code simple games in Python I decided that I really enjoyed programming and wanted to switch full time. I enrolled in Makers Academy 16 week full-stack bootcamp and recently graduated. I’m now looking for a front-end role and I have been spending my time on side projects growing my React.js skills. I am really interested in specialising in front-end and have been using different tools, such as React Bootstrap and Styled Components. I am also getting the hang of using React Hooks after having been used to Class Components. My next step is to redo some of my projects so that I can learn how to use TypeScript.
+ 
 Prior to engineering I worked in healthcare for 9 years in a variety of client-facing roles. This includes 5.5 years in health tech startups doing business development (Huma, formerly Medopad, and LEO Innovation Lab). I also worked in healthcare policy as a health economist for the other 3.5 years (London School of Economics and seconded to the Department of Health). I have loved working in those roles and am looking for my next engineering role. I believe that the skills that I bring from my non-engineering background (negotiation, communication, and people skills) will be positive additions to an engineering team.
-
-I am really interested in specialising in front-end and have been using different tools, such as React Bootstrap and Styled Components. I am also getting the hang of using React Hooks after having been used to Class Components. My next step is to redo some of my projects so that I can learn how to use TypeScript.
 
 ### GitHub projects
 Re-Engage Admin Portal, July 2020

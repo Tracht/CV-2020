@@ -1,5 +1,9 @@
 ## Marija Trachtenberg
 Frontend developer (React.js)  
+
+[Medium](https://medium.com/swlh/the-how-to-set-up-ci-cd-for-your-project-using-travis-ci-heroku-mongodb-fa305c10581a) | [GitHub](https://github.com/Tracht) | [LinkedIn](https://www.linkedin.com/in/marijatrachtenberg)
+<br> [Github Projects](#chapter-1) | [Employment Experience](#chapter-2) | [Education](#chapter-3) | [Interests](#chapter-4) | [Languages](#chapter-5) 
+
  
 ### Life before engineering
 
@@ -11,9 +15,6 @@ As much as I loved working in healthcare I felt that it was time for a change. W
 
 <br>
  
-|[Github Projects](#chapter-1)|<a href="https://medium.com/swlh/the-how-to-set-up-ci-cd-for-your-project-using-travis-ci-heroku-mongodb-fa305c10581a"> <img src="./medium.png" alt="medium" hspace="20" height="42" width="42"></a>|<a href="https://github.com/Tracht"><img src="./github.png" alt="github" hspace="20" height="42" width="42"></a>| <a href="https://www.linkedin.com/in/marijatrachtenberg/"><img src="./linkedin.png" alt="linkedin" height="42" hspace="20" width="42"></a>|[Employment Experience](#chapter-2)|[Education](#chapter-3)|[Interests](#chapter-4)|[Languages](#chapter-5)|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-
 ## GitHub Projects <a name="chapter-1"></a>
 
 |Projects|Summary|Team Size|Time|Tech Stack|Highlights|

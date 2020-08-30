@@ -3,11 +3,11 @@ Frontend developer (React.js)
  
 ### Life before engineering
 
-Prior to engineering I worked in healthcare for 9 years in a variety of client-facing roles. This includes 5.5 years in health tech startups doing business development (Huma, formerly Medopad, and LEO Innovation Lab). I also worked in healthcare policy as a health economist for the other 3.5 years (London School of Economics and seconded to the Department of Health). I have loved working in those roles and am looking for my next engineering role. I believe that the skills that I bring from my non-engineering background (negotiation, communication, and people skills) will be positive additions to an engineering team.
+Prior to engineering I worked in healthcare for 9 years in a variety of client-facing roles. This includes 5.5 years in health tech startups doing business development for Huma Therapeutics and LEO Innovation Lab. I also worked in healthcare policy as a health economist for the other 3.5 years with the London School of Economics and then seconded to the Department of Health. I have loved working in those roles as it gave me exposure to different parts of the healthcare system. I got to work with clinicians, patients, health policy advisors, and health tech entrepeneurs. The English NHS is rightly one of the most cherished government services and I am really glad to have been a part of many different teams and organisations looking to improve the delivery of NHS services so that people's care and experiences are of high standard and good quality. 
   
 ### Engineering journey
 
-After spending the past year learning how to code simple games in Python I decided that I really enjoyed programming and wanted to switch full time. I enrolled in Makers Academy 16 week full-stack bootcamp and recently graduated. I’m looking for a front-end role and I have been spending my time on side projects growing my React.js skills. I have been learning how to use different tools such as React Bootstrap and Styled Components. I am also getting the hang of using React Hooks after having been used to Class Components. My next step is to redo some of my projects so that I can learn how to use TypeScript.
+As much as I loved working in healthcare I felt that it was time for a change. Whilst working at Huma Therapeutics I spent some of my weekends learning how to code simple games in Python. I found that I enjoyed coding and time passed quickly and so I made the switch and enrolled in Makers Academy bootcamp in London. I've recently graduated and am now focusing on front-end technologies (mainly React) and learning various other tools like React Bootstrap, Styled Components, and React Hooks vs Classes. My next aim is to redo one of my projects and learn TypeScript!
 
 <br>
  
@@ -16,20 +16,20 @@ After spending the past year learning how to code simple games in Python I decid
 
 ## GitHub Projects <a name="chapter-1"></a>
 
-|Projects|Summary|Team Size|Time|Tech Stack|
-|:-:|:-:|:-:|:-:|:-:|
-|[Re-Engage Admin Portal](https://github.com/Tracht/Re-Engage)|A web portal that helps the Re-Engage volunteer coordinators. Re-Engage is a charity that organises tea parties for eldery people to address isolation and loneliness.|6|2 Weeks|JS, React, Node, Express, Nodemon, Prettier, GoogleMaps Directions API, MongoDB, Mongoose, <br> Testing: Jest, Cypress, <br> CI & CD: Travis, Heroku|
-|[AceBook](https://github.com/Tracht/AceBook)|A fun re-creation of Facebook.|5|2 Weeks|JS, React, Node, Express, Nodemon, MongoDB, Mongoose, ESLint, Multer, Bcrypt, <br> Testing: Jest, Cypress, <br>CI & CD: Travis, Heroku|
-|[SpaceX](https://github.com/Tracht/spacex)|Fetches data from the SpaceX API and returns a list of rockets or dragons. Clicking on one of the dragons or rockets from the list shows more information in a separate card.|1|1 Week|JS, React, Class Components, React Bootstrap|
-|[TypeFast!](https://github.com/Tracht/TypeFast)|A game to help you increase your typing speed!|1|1 day|JS, React, React Hooks, HTML, CSS |
-|[Thermostat](https://github.com/Tracht/Thermostat)|A thermostat that also fetches the temperature from cities worldwide.|1|~1 week|Vanilla JavaScript, HTML, CSS|
+|Projects|Summary|Team Size|Time|Tech Stack|Highlights|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Re-Engage Admin Portal](https://github.com/Tracht/Re-Engage)|A web portal that helps the Re-Engage volunteer coordinators. Re-Engage is a charity that organises tea parties for eldery people to address isolation and loneliness.|6|2 Weeks|JS, React, Node, Express, Nodemon, Prettier, GoogleMaps Directions API, MongoDB, Mongoose, <br> Testing: Jest, Cypress, <br> CI & CD: Travis, Heroku|Learning how to implement CI & CD properly!|
+|[AceBook](https://github.com/Tracht/AceBook)|A fun re-creation of Facebook.|5|2 Weeks|JS, React, Node, Express, Nodemon, MongoDB, Mongoose, ESLint, Multer, Bcrypt, <br> Testing: Jest, Cypress, <br>CI & CD: Travis, Heroku|Learning how to use the MERN stack for the first time!|
+|[SpaceX](https://github.com/Tracht/spacex)|Fetches data from the SpaceX API and returns a list of rockets or dragons. Clicking on one of the dragons or rockets from the list shows more information in a separate card.|1|1 Week|JS, React, Class Components, React Bootstrap|More practice with React components!|
+|[TypeFast!](https://github.com/Tracht/TypeFast)|A game to help you increase your typing speed!|1|1 day|JS, React, React Hooks, HTML, CSS | Learning how to use React Hooks!|
+|[Thermostat](https://github.com/Tracht/Thermostat)|A thermostat that also fetches the temperature from cities worldwide.|1|1 week|Vanilla JavaScript, HTML, CSS| Learning how to use JavaScript for the first time!|
 <!--|[SpaceX 2.0](https://github.com/Tracht/spacex-hooks)|Redoing the spacex challenge to learn new technologies (refer to the right)|1|1 Week|JS, React Hooks, Styled Components, Modal, Axios|-->
 
 ## Employment Experience <a name="chapter-2"></a>
 
 **[Huma Therapeutics](https://huma.com)** (January 2017 to July 2020)
-   <details close>
-<summary>See more</summary>
+   <details close> 
+  <summary>See more</summary>
  <br>
   
 *Healthcare Partnerships*
@@ -68,12 +68,17 @@ After spending the past year learning how to code simple games in Python I decid
 ## Education <a name="chapter-3"></a>
 
 #### [Makers Academy](https://makers.tech) (March 2020 to July 2020)
-##### Software Development Course #####
+ <details close>
+<summary>See more</summary>
+ <br>
+  
+*Software Development Course*
 - OOP, TDD, MVC, DDD
 - Agile Development Process
 - Ruby, Sinatra, JavaScript, Node, MongoDB, PostgreSQL
 - RSpec, Jasmine, Capybara, Jest, Cypress
-
+ </details>
+ 
 #### [London School of Economics](http://www.lse.ac.uk)(September 2011 to 2012)
 ##### Masters: International Health Policy and Health Economics #####
 

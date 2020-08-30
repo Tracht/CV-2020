@@ -12,18 +12,16 @@ Prior to engineering I worked in healthcare for 9 years in a variety of client-f
 ### Engineering journey
 
 As much as I loved working in healthcare I felt that it was time for a change. Whilst working at Huma Therapeutics I spent some of my weekends learning how to code simple games in Python. I found that I enjoyed coding and time passed quickly and so I made the switch and enrolled in Makers Academy bootcamp in London. I've recently graduated and am now focusing on front-end technologies (mainly React) and learning various other tools like React Bootstrap, Styled Components, and React Hooks vs Classes. My next aim is to redo one of my projects and learn TypeScript!
-
-<br>
  
 ## GitHub Projects <a name="chapter-1"></a>
 
 |Projects|Summary|Team Size|Time|Tech Stack|Highlights|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[Re-Engage Admin Portal](https://github.com/Tracht/Re-Engage)|A web portal that helps the Re-Engage volunteer coordinators. Re-Engage is a charity that organises tea parties for eldery people to address isolation and loneliness.|6|2 Weeks|JS, React, Node, Express, Nodemon, Prettier, GoogleMaps Directions API, MongoDB, Mongoose, <br> Testing: Jest, Cypress, <br> CI & CD: Travis, Heroku|Learning how to implement CI & CD properly!|
-|[AceBook](https://github.com/Tracht/AceBook)|A fun re-creation of Facebook.|5|2 Weeks|JS, React, Node, Express, Nodemon, MongoDB, Mongoose, ESLint, Multer, Bcrypt, <br> Testing: Jest, Cypress, <br>CI & CD: Travis, Heroku|Learning how to use the MERN stack for the first time!|
-|[SpaceX](https://github.com/Tracht/spacex)|Fetches data from the SpaceX API and returns a list of rockets or dragons. Clicking on one of the dragons or rockets from the list shows more information in a separate card.|1|1 Week|JS, React, Class Components, React Bootstrap|More practice with React components!|
-|[TypeFast!](https://github.com/Tracht/TypeFast)|A game to help you increase your typing speed!|1|1 day|JS, React, React Hooks, HTML, CSS | Learning how to use React Hooks!|
-|[Thermostat](https://github.com/Tracht/Thermostat)|A thermostat that also fetches the temperature from cities worldwide.|1|1 week|Vanilla JavaScript, HTML, CSS| Learning how to use JavaScript for the first time!|
+|[Re-Engage Admin Portal](https://github.com/Tracht/Re-Engage)|A web portal that helps the Re-Engage volunteer coordinators. Re-Engage is a charity that organises tea parties for eldery people to address isolation and loneliness.|6|2 Weeks|JS, React, Node, Express, Nodemon, Prettier, GoogleMaps Directions API, MongoDB, Mongoose, <br> Testing: Jest, Cypress, <br> CI & CD: Travis, Heroku| Improving my knowledge of server side rendering and implementing CI & CD properly |
+|[AceBook](https://github.com/Tracht/AceBook)|A fun re-creation of Facebook.|5|2 Weeks| JS, React, Node, Express, Nodemon, MongoDB, Mongoose, ESLint, Multer, Bcrypt, <br> Testing: Jest, Cypress, <br>CI & CD: Travis, Heroku| Learnign how to use MERN |
+|[SpaceX](https://github.com/Tracht/spacex)|Fetches data from the SpaceX API and returns a list of rockets or dragons. Clicking on one of the dragons or rockets from the list shows more information in a separate card.|1|1 Week|JS, React, Class Components, React Bootstrap| More practice with React components using class components|
+|[TypeFast!](https://github.com/Tracht/TypeFast)|A game to help you increase your typing speed!|1|1 day|JS, React, React Hooks, HTML, CSS | Using React Hooks for the first time |
+|[Thermostat](https://github.com/Tracht/Thermostat)|A thermostat that also fetches the temperature from cities worldwide.|1|1 week|Vanilla JavaScript, HTML, CSS| Learning JavaScript, APIs, and Callbacks|
 <!--|[SpaceX 2.0](https://github.com/Tracht/spacex-hooks)|Redoing the spacex challenge to learn new technologies (refer to the right)|1|1 Week|JS, React Hooks, Styled Components, Modal, Axios|-->
 
 ## Employment Experience <a name="chapter-2"></a>

@@ -80,7 +80,7 @@ As much as I loved working in healthcare I felt that it was time for a change. W
 - RSpec, Jasmine, Capybara, Jest, Cypress
  </details>
  
-#### [London School of Economics](http://www.lse.ac.uk)(September 2011 to 2012)
+#### [London School of Economics](http://www.lse.ac.uk) (September 2011 to 2012)
 ##### Masters: International Health Policy and Health Economics #####
 
 ## Interests <a name="chapter-4"></a>

@@ -7,7 +7,8 @@ Frontend developer (React.js)
  
 ### Life before engineering
 
-Prior to engineering I worked in healthcare for 9 years in a variety of client-facing roles. This includes 5.5 years in health tech startups doing business development for Huma Therapeutics and LEO Innovation Lab. I also worked in healthcare policy as a health economist for the other 3.5 years with the London School of Economics and then seconded to the Department of Health. I have loved working in those roles as it gave me exposure to different parts of the healthcare system. I got to work with clinicians, patients, health policy advisors, and health tech entrepeneurs. The English NHS is rightly one of the most cherished government services and I am really glad to have been a part of many different teams and organisations looking to improve the delivery of NHS services so that people's care and experiences are of high standard and good quality. 
+Prior to engineering I worked in healthcare for 9 years in a variety of client-facing roles. This includes 5.5 years in health tech startups doing business development for Huma Therapeutics and LEO Innovation Lab. I also worked in healthcare policy as a health economist for the other 3.5 years with the London School of Economics and then seconded to the Department of Health. <br> <br>
+I have loved working in those roles as it gave me exposure to different parts of the healthcare system. I got to work with clinicians, patients, health policy advisors, and health tech entrepeneurs. The English NHS is rightly one of the most cherished government services and I am really glad to have been a part of many different teams and organisations looking to improve the delivery of NHS services so that people's care and experiences are of high standard and good quality. 
   
 ### Engineering journey
 

@@ -17,8 +17,7 @@ As much as I loved working in healthcare I felt that it was time for a change. W
 My next learning objectives include:
 - learn how to use Jest to test React components
 - redo one of my projects and learn TypeScript
-- learn how to use Storybook
-- learn how to test with Storybook
+- learn how to use and test with Storybook
  
 ## GitHub Projects <a name="chapter-1"></a>
 

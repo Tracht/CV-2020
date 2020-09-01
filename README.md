@@ -12,8 +12,7 @@ I have loved working in those roles as it gave me exposure to different parts of
   
 ### Engineering journey
 
-As much as I loved working in healthcare I felt that it was time for a change. Whilst working at Huma Therapeutics I spent some of my weekends learning how to code simple games in Python. I found that I enjoyed coding and time passed quickly and so I made the switch and enrolled in Makers Academy bootcamp in London. I've recently graduated and am now focusing on front-end technologies (mainly React) and learning various other tools like React Bootstrap, Styled Components, and React Hooks vs Classes. <br> <br> 
-
+As much as I loved working in healthcare I felt that it was time for a change. Whilst working at Huma Therapeutics I spent some of my weekends learning how to code simple games in Python. I found that I enjoyed coding and time passed quickly and so I made the switch and enrolled in Makers Academy bootcamp in London. I've recently graduated and am now focusing on front-end technologies (React) and React tools including React Bootstrap, Styled Components, and React Hooks vs Classes. <br>
 My next learning objectives include:
 - learn how to use Jest to test React components
 - redo one of my projects and learn TypeScript

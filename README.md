@@ -4,12 +4,11 @@
 [Medium](https://medium.com/swlh/the-how-to-set-up-ci-cd-for-your-project-using-travis-ci-heroku-mongodb-fa305c10581a) | [GitHub](https://github.com/Tracht) | [LinkedIn](https://www.linkedin.com/in/marijatrachtenberg)
 <br> [Github Projects](#chapter-1) | [Side Projects](#chapter-2) | [Blogs](#chapter-3) |[Employment Experience](#chapter-4) | [Education](#chapter-5) | [Interests](#chapter-6) | [Languages](#chapter-7) 
 
- 
 ### Life before engineering
 - Prior to engineering I worked in healthcare for 9 years in a variety of client-facing roles. 
 - 5.5 years in health tech startups doing business development for Huma Therapeutics and LEO Innovation Lab. 
-- 3.5 years as a health economist working in healthcare policy with the London School of Economics and then seconded to the Department of Health. <br> <br>
-- I have loved working in those roles as it gave me exposure to different parts of the healthcare system. I got to work with clinicians, patients, health policy advisors, and health tech entrepeneurs. The English NHS is rightly one of the most cherished government services and I am really glad to have been a part of many different teams and organisations looking to improve the delivery of NHS services so that people's care and experiences are of high standard and good quality. 
+- 3.5 years as a health economist working in healthcare policy with the London School of Economics and then seconded to the Department of Health.
+- I have loved working in those roles as it gave me exposure to different parts of the healthcare system. I got to work with clinicians, patients, health policy advisors, and health tech entrepeneurs. The English NHS is one of the most cherished government services and I am really glad to have been a part of many different organisations looking to improve NHS services. 
   
 ### Engineering journey
 - I decided to switch to software engineering because it gives me the mobility to work across a number of industries and I am excited by the wave of innovative companies in healthcare, retail, travel, energy, and insurance just to name a few. 
@@ -35,8 +34,8 @@
 |Projects|Summary|Tech Stack|Highlights|
 |:-:|:-:|:-:|:-:|
 |[TypeFast!](https://github.com/Tracht/TypeFast)|A game to help you increase your typing speed!|JS, React, HTML, CSS | Using React Hooks for the first time. |
-|[SpaceX](https://github.com/Tracht/spacex)|Fetches data from the SpaceX API and returns a list of rockets or dragons. Clicking on one of the dragons or rockets from the list shows more information in a separate card.|JS, React, React Bootstrap| Using React Boostrap for the first time. 
-|[SpaceX 2.0](https://github.com/Tracht/spacex-hooks)| Redoing the SpaceX challenge to learn new technologies|JS, React, Styled Components, Modal, Axios| Using React Hooks, Styled Components, Modal, and Axios for the first time.
+|[SpaceX](https://github.com/Tracht/spacex)|Fetches data from the SpaceX API and returns a list of rockets or dragons. Clicking on one of the dragons or rockets from the list shows more information in a separate card.|JS, React Class Components, React Bootstrap| Using React Boostrap for the first time. 
+|[SpaceX 2.0](https://github.com/Tracht/spacex-hooks)| Redoing the SpaceX challenge to learn new technologies|JS, React Hooks, Styled Components, Modal, Axios| Using Styled Components, Modal, and Axios for the first time.
 
 ## Employment Experience <a name="chapter-4"></a>
 

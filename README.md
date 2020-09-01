@@ -2,7 +2,7 @@
 ### Fullstack developer (JS, React, Node, Express)  
 [LinkedIn](https://www.linkedin.com/in/marijatrachtenberg)
 
-<br> [Github Projects](#chapter-1) | [Side Projects](#chapter-2) | [Blogs](#chapter-3) |[Employment Experience](#chapter-4) | [Education](#chapter-5) | [Interests](#chapter-6) | [Languages](#chapter-7) 
+[Github Projects](#chapter-1) | [Side Projects](#chapter-2) | [Blogs](#chapter-3) |[Employment Experience](#chapter-4) | [Education](#chapter-5) | [Interests](#chapter-6) | [Languages](#chapter-7) 
 
 ## Summary 
 ### Engineering journey 🚀
@@ -38,8 +38,7 @@
 
 ### [Makers Academy](https://makers.tech) (March 2020 to July 2020)
 *Software Development Course*
-- OOP, TDD, MVC
-- Agile Development Process
+- OOP, TDD, MVC, Agile Development Process
 - JavaScript, React, Express, Node
 - Ruby, Sinatra
 - Automated testing: RSpec, Jasmine, Capybara, Jest, Cypress
@@ -74,5 +73,5 @@
 - Road trips around England. 
 
 ## Languages <a name="chapter-7"></a> 🇺🇸🇷🇸🇬🇧
-- Native English speaker, Serbian as a second language in the home
-- Fluent in American Sign Language
+- Native English speaker, Serbian as a second language in the home.
+- Fluent in American Sign Language.

@@ -1,7 +1,7 @@
 ## Marija Trachtenberg
-### Frontend & Fullstack developer (JavaScript, React.js, Node, Express)  
+### Frontend & Fullstack developer (JS, React, Node, Express)  
+[LinkedIn](https://www.linkedin.com/in/marijatrachtenberg)
 
-[Medium](https://medium.com/swlh/the-how-to-set-up-ci-cd-for-your-project-using-travis-ci-heroku-mongodb-fa305c10581a) | [GitHub](https://github.com/Tracht) | [LinkedIn](https://www.linkedin.com/in/marijatrachtenberg)
 <br> [Github Projects](#chapter-1) | [Side Projects](#chapter-2) | [Blogs](#chapter-3) |[Employment Experience](#chapter-4) | [Education](#chapter-5) | [Interests](#chapter-6) | [Languages](#chapter-7) 
 
 ## Summary 

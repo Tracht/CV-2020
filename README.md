@@ -1,5 +1,5 @@
 ## Marija Trachtenberg
-### Frontend & Fullstack developer (JS, React, Node, Express)  
+### Fullstack developer (JS, React, Node, Express)  
 [LinkedIn](https://www.linkedin.com/in/marijatrachtenberg)
 
 <br> [Github Projects](#chapter-1) | [Side Projects](#chapter-2) | [Blogs](#chapter-3) |[Employment Experience](#chapter-4) | [Education](#chapter-5) | [Interests](#chapter-6) | [Languages](#chapter-7) 

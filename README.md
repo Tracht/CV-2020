@@ -19,7 +19,7 @@
 ## Blogs <a name="chapter-1"></a> 👩🏼‍💻
 - Check out my blogpost on [Medium](https://medium.com/swlh/the-how-to-set-up-ci-cd-for-your-project-using-travis-ci-heroku-mongodb-fa305c10581a) or [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6696052887245729792/) where I explain how to set up CI & CD for your own project.
  
-## Makers Academy Projects <a name="chapter-2"></a> 🤖
+## Makers Academy Projects <a name="chapter-2"></a> 🤖 💡
 |Projects|Summary|Tech Stack|Highlights|
 |:-:|:-:|:-:|:-:|
 |[Re-Engage Admin Portal](https://github.com/Tracht/Re-Engage)|A web portal that helps the Re-Engage volunteer coordinators. Re-Engage is a charity that organises tea parties for eldery people to address isolation and loneliness.|JS, React, Node, Express, Nodemon, Prettier, GoogleMaps Directions API, MongoDB, Mongoose, Jest, Cypress, Travis, Heroku| Improving dev-ops skills with TravisCI and Heroku. |
@@ -27,14 +27,14 @@
 |[Thermostat](https://github.com/Tracht/Thermostat)|A thermostat that also fetches weather data from cities worldwide.|Vanilla JavaScript, HTML, CSS| Learning JavaScript, APIs, and Callbacks|
 |[MakersBnB](https://github.com/Tracht/Thermostat)|A fun re-creation of AirBnb. |Ruby, Sinatra, Rack, Rake, Handlebars, Rubocop, Bcrypt, RSpec, Capybara, PostgreSQL, PG| Implementing encryption! |
 
-## Side Projects <a name="chapter-3"></a> 👾
+## Side Projects <a name="chapter-3"></a> 👾 ⚙️ 🔨
 |Projects|Summary|Tech Stack|Highlights|
 |:-:|:-:|:-:|:-:|
 |[TypeFast!](https://github.com/Tracht/TypeFast)|A game to help you increase your typing speed!|JS, React, HTML, CSS | Using React Hooks for the first time. |
 |[SpaceX](https://github.com/Tracht/spacex)|Fetches data from the SpaceX API and returns a list of rockets or dragons. Clicking on one of the dragons or rockets from the list shows more information in a separate card.|JS, React Class Components, React Bootstrap| Using React Boostrap for the first time. 
 |[SpaceX 2.0](https://github.com/Tracht/spacex-hooks)| Redoing the SpaceX challenge to learn new technologies|JS, React Hooks, Styled Components, Modal, Axios| Using Styled Components, Modal, and Axios for the first time.
 
-## Education <a name="chapter-4"></a> 👩🏼‍🎓
+## Education <a name="chapter-4"></a> 👩🏼‍🎓📖 🍻
 
 ### [Makers Academy](https://makers.tech) (March 2020 to July 2020)
 *Software Development Course*
@@ -48,7 +48,7 @@
 ### [London School of Economics](http://www.lse.ac.uk) (September 2011 to 2012)
 *Masters: International Health Policy and Health Economics*
 
-## Employment Experience <a name="chapter-5"></a> 🍻
+## Employment Experience <a name="chapter-5"></a> 🏥 💼🍻
 
 **[Huma Therapeutics](https://huma.com)** (January 2017 to July 2020)
 *Healthcare Partnerships*

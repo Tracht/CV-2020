@@ -36,7 +36,7 @@
 
 ## Education <a name="chapter-4"></a> 👩🏼‍🎓
 
-### [Makers Academy](https://makers.tech) (March 2020 to July 2020)
+### [Makers Academy](https://makers.tech) (March to July 2020)
 *Software Development Course*
 - OOP, TDD, MVC, Agile Development Process
 - JavaScript, React, Express, Node

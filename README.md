@@ -13,8 +13,7 @@
 - 3.5 years as a health economist working in healthcare policy with the London School of Economics and then seconded to the Department of Health.
 
 ### Learning objectives 🤠
-- **What am I learning now?** Implementing a Modal component in my SpaceX-hooks project. 
-- **What am I learning next?** Redoing one of my projects in TypeScript
+- **What am I learning now?** TypeScript, Redux & Redux Sagas. 
 
 ## Blogs <a name="chapter-1"></a> 👩🏼‍💻
 - Check out my blogpost on [Medium](https://medium.com/swlh/the-how-to-set-up-ci-cd-for-your-project-using-travis-ci-heroku-mongodb-fa305c10581a) or [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6696052887245729792/) where I explain how to set up CI & CD for your own project.

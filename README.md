@@ -6,11 +6,10 @@
 
 ## Summary 
 ### Engineering journey 🚀
-I wasn’t always a developer. I decided to make the switch because I like having the mobility to work across a number of industries and I am excited by the wave of innovative companies in healthcare, retail, travel, energy, and insurance just to name a few. I am excited to bring my healthcare and start-up experience to engineering new technology products!
+I wasn’t always a developer. I decided to make the switch because I enjoy building things. While I trained as a fullstack developer I do lean more to the front-end. I am a bit more of a creative type and like making and seeing beautiful things, especially when it is beautiful UI! 
+
 ### Life before engineering 👩‍⚕️
-- Prior to engineering I worked in healthcare for 9 years in a variety of client-facing roles. 
-- 5.5 years in health tech startups doing business development for Huma Therapeutics and LEO Innovation Lab. 
-- 3.5 years as a health economist working in healthcare policy with the London School of Economics and then seconded to the Department of Health.
+Prior to my career change I worked in healthcare in client-facing roles that were high-paced, demanding, but also really rewarding. About half of my work experience is in business development in health tech start-ups with companies based in London and Copenhagen. The other half was healthcare policy focused where I worked as a health economist. 
 
 ### Learning objectives 🤠
 - **What am I learning now?** TypeScript, Redux & Redux Sagas. 
@@ -21,8 +20,8 @@ I wasn’t always a developer. I decided to make the switch because I like havin
 ## Makers Academy Projects <a name="chapter-2"></a> 🤖 💡
 |Projects|Summary|Tech Stack|Highlights|
 |:-:|:-:|:-:|:-:|
-|[Re-Engage Admin Portal](https://github.com/Tracht/Re-Engage)|A web portal that helps the Re-Engage volunteer coordinators. Re-Engage is a charity that organises tea parties for eldery people to address isolation and loneliness.|JS, React, Node, Express, Nodemon, Prettier, GoogleMaps Directions API, MongoDB, Mongoose, Jest, Cypress, Travis, Heroku| Improving dev-ops skills with TravisCI and Heroku. |
-|[AceBook](https://github.com/Tracht/AceBook)|A fun re-creation of Facebook.|JS, React, Node, Express, Nodemon, MongoDB, Mongoose, ESLint, Multer, Bcrypt, Jest, Cypress, Travis, Heroku| Using MERN stack for the first time. Uploading image files with Multer! |
+|[Re-Engage Admin Portal](https://github.com/Tracht/Re-Engage)|A web portal for the charity Re-Engage. It helps volunteer coordinators organise tea parties for eldery people to address loneliness & isolation.|M.E.R.N + GoogleMaps Directions API, Nodemon, Prettier, Mongoose, Jest, Cypress, Travis, Heroku|
+|[AceBook](https://github.com/Tracht/AceBook)|A fun re-creation of Facebook.|M.E.R.N + Nodemon, ESLint, Mongoose, Multer, Bcrypt, Jest, Cypress, Travis, Heroku| Using MERN stack for the first time. Uploading image files with Multer! |
 |[Thermostat](https://github.com/Tracht/Thermostat)|A thermostat that also fetches weather data from cities worldwide.|Vanilla JavaScript, HTML, CSS| Learning JavaScript, APIs, and Callbacks|
 |[MakersBnB](https://github.com/Tracht/Thermostat)|A fun re-creation of AirBnb. |Ruby, Sinatra, Rack, Rake, Handlebars, Rubocop, Bcrypt, RSpec, Capybara, PostgreSQL, PG| Implementing encryption! |
 

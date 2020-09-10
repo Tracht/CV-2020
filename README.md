@@ -9,7 +9,9 @@
 I wasn’t always a developer. I decided to make the switch because I enjoy building things. While I trained as a fullstack developer I do lean more to the front-end. I am a bit more of a creative type and like making and seeing beautiful things, especially when it is beautiful UI! 
 
 ### Life before engineering 👩‍⚕️
-Prior to my career change I worked in healthcare in client-facing roles that were high-paced, demanding, but also really rewarding. About half of my work experience is in business development in health tech start-ups with companies based in London and Copenhagen. The other half was healthcare policy focused where I worked as a health economist. 
+Prior to my career change I worked in healthcare in client-facing roles that were high-paced, demanding, but also really rewarding. 
+- 5.5 years were spent in business development in health tech start-ups with companies based in London and Copenhagen. 
+- 3.5 years were sepnt doing healthcare policy and health economics. 
 
 ### Learning objectives 🤠
 - **What am I learning now?** TypeScript, Redux & Redux Sagas. 

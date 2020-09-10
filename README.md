@@ -6,7 +6,7 @@
 
 ## Summary 
 ### Engineering journey 🚀
-- I decided to switch to software engineering because it gives me the mobility to work across a number of industries and I am excited by the wave of innovative companies in healthcare, retail, travel, energy, and insurance just to name a few. I am excited to bring my healthcare and start-up experience to engineering new technology products! 
+I wasn’t always a developer. I decided to make the switch because I like having the mobility to work across a number of industries and I am excited by the wave of innovative companies in healthcare, retail, travel, energy, and insurance just to name a few. I am excited to bring my healthcare and start-up experience to engineering new technology products!
 ### Life before engineering 👩‍⚕️
 - Prior to engineering I worked in healthcare for 9 years in a variety of client-facing roles. 
 - 5.5 years in health tech startups doing business development for Huma Therapeutics and LEO Innovation Lab. 

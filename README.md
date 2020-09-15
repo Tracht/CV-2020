@@ -6,7 +6,7 @@
 
 ## Summary 
 ### Engineering journey 🚀
-I wasn’t always a developer. I decided to make the switch because I enjoy building things. While I trained as a fullstack developer I do lean more to the front-end. I am a bit more of a creative type and like making and seeing beautiful things, especially when it is beautiful UI! 
+I wasn’t always a developer. I decided to make the switch because I not only like seeing what I've created, but I like building beautiful UI! While I trained as a fullstack developer, I am a bit more of a creative type I lean towards the front-end.
 
 ### Life before engineering 👩‍⚕️
 Prior to my career change I worked in healthcare in client-facing roles that were high-paced, demanding, but also really rewarding. 
@@ -22,7 +22,7 @@ Prior to my career change I worked in healthcare in client-facing roles that wer
 ## Makers Academy Projects <a name="chapter-2"></a> 🤖 💡
 |Projects|Summary|Tech Stack|Highlights|
 |:-:|:-:|:-:|:-:|
-|[Re-Engage Admin Portal](https://github.com/Tracht/Re-Engage)|A web portal for the charity Re-Engage. It helps volunteer coordinators organise tea parties for eldery people to address loneliness & isolation.|M.E.R.N + GoogleMaps Directions API, Nodemon, Prettier, Mongoose, Jest, Cypress, Travis, Heroku|
+|[Re-Engage Admin Portal](https://github.com/Tracht/Re-Engage)|A web portal for the charity Re-Engage. It helps volunteer coordinators organise tea parties for eldery people to address loneliness & isolation.|M.E.R.N + GoogleMaps Directions API, Nodemon, Prettier, Mongoose, Jest, Cypress, Travis, Heroku| Improving my dev-op skills |
 |[AceBook](https://github.com/Tracht/AceBook)|A fun re-creation of Facebook.|M.E.R.N + Nodemon, ESLint, Mongoose, Multer, Bcrypt, Jest, Cypress, Travis, Heroku| Using MERN stack for the first time. Uploading image files with Multer! |
 |[Thermostat](https://github.com/Tracht/Thermostat)|A thermostat that also fetches weather data from cities worldwide.|Vanilla JavaScript, HTML, CSS| Learning JavaScript, APIs, and Callbacks|
 |[MakersBnB](https://github.com/Tracht/Thermostat)|A fun re-creation of AirBnb. |Ruby, Sinatra, Rack, Rake, Handlebars, Rubocop, Bcrypt, RSpec, Capybara, PostgreSQL, PG| Implementing encryption! |

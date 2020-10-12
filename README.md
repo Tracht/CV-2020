@@ -6,7 +6,7 @@
 
 ## Summary 
 ### Engineering journey 🚀
-I wasn’t always a developer. I decided to make the switch because I not only like seeing what I've created, but I like building beautiful UI! While I trained as a fullstack developer, I am a bit more of a creative type I lean towards the front-end.
+I wasn’t always a web developer. Prior to my career change I worked in the commercial side of healthcare in client-facing roles. I thought it would be more interesting to do both and bring my commercial experience into the product development process. Having worked with product teams and clients I have seen firsthand the importance of cross-departmental communication and expectations management in software development and product delivery.
 
 ### Life before engineering 👩‍⚕️
 Prior to my career change I worked in healthcare in client-facing roles that were high-paced, demanding, but also really rewarding. 
@@ -14,7 +14,7 @@ Prior to my career change I worked in healthcare in client-facing roles that wer
 - 3.5 years were sepnt doing healthcare policy and health economics. 
 
 ### Learning objectives 🤠
-- **What am I learning now?** TypeScript, Redux & Redux Sagas. 
+- **What am I learning now?** GraphQL, Redux & Redux Sagas. 
 
 ## Blogs <a name="chapter-1"></a> 👩🏼‍💻
 - Check out my blogpost on [Medium](https://medium.com/swlh/the-how-to-set-up-ci-cd-for-your-project-using-travis-ci-heroku-mongodb-fa305c10581a) or [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6696052887245729792/) where I explain how to set up CI & CD for your own project.
